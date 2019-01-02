@@ -1,4 +1,5 @@
 # varImpact - variable importance through causal inference
+[Varimpact: exploratory variable importance integrating causal inference and machine learning 2018](http://www.citeulike.org/user/guhjy/article/14675962)
 
 [![Build Status](https://travis-ci.org/ck37/varImpact.svg?branch=master)](https://travis-ci.org/ck37/varImpact)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ck37/varImpact?branch=master&svg=true)](https://ci.appveyor.com/project/ck37/varImpact)
